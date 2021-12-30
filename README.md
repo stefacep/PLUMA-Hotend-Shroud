@@ -10,7 +10,7 @@ The BOM on the pdf is for the Stock configuration, the BOM for the alternate con
 ## 
 In early-mid 2020, upon looking for potential solutions, i have not found a solution for the ender 3 printer that integrates both a microswiss/mk8 class hotend with a bmg hotend is not invasive to the point that a hotend swap is required nor a translation of the y axis extrusion to recoup the lost build space.
 
-As a result the product was designed and prototyped in July 2020 and tested with several iterations for the latter part of 2020, with minimal tweaks to increase useability as well as part cooling effectiveness
+As a result the product was designed and prototyped in July 2020 and tested with several iterations for the latter part of 2020 and 2021, with minimal tweaks to increase useability, durability, reduce weight and increase part cooling effectiveness
 
 In early 2021, upon switching to a NF-Crazy hotend and an MGN12 motion system, PLUMA was derived to support both architectures with the main chassis being able to directly interface with the linear rail carriage without the original aluminum x plate, therefore reducing complexity and weight
 
